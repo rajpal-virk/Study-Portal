@@ -8,7 +8,11 @@ General Terms
 
 .. math:: \frac {numerator} {denominator} 
 
-4 over 5 4 is divided by 5 Four-fifth
+4 over 5
+
+4 is divided by 5
+
+Four-fifth
 
 Fraction Types
 --------------
@@ -16,27 +20,30 @@ Fraction Types
 3-types
 
 1. Proper Fraction
+~~~~~~~~~~~~~~~~~~
 
-   -  Numerator is smaller than Denominator.
+-  Numerator is smaller than Denominator.
 
-      .. math::  \frac {4}{5} 
+   .. math::  \frac {4}{5} 
 
 2. Improper Fraction
+~~~~~~~~~~~~~~~~~~~~
 
-   -  Numerator is greater than Denominator.
+-  Numerator is greater than Denominator.
 
-      .. math::  \frac {5}{4} 
+   .. math::  \frac {5}{4} 
 
 3. Mixed Fraction
+~~~~~~~~~~~~~~~~~
 
-   -  has 2 parts - a whole number and a fraction
+-  has 2 parts - a whole number and a fraction
 
-      .. math::  3 \frac {4} {5}
+   .. math::  3 \frac {4} {5}
 
-      (To solve numerator, 3 \* 5 + 4 = 19 and denominator stays same.)
-   -  simplified form of mixed fraction is improper fraction
+   (To solve numerator, 3 \* 5 + 4 = 19 and denominator stays same.)
+-  simplified form of mixed fraction is improper fraction
 
-      .. math::  \frac {19}{5} 
+   .. math::  \frac {19}{5} 
 
 Fraction Comparison (which fraction is greater)
 -----------------------------------------------

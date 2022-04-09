@@ -4,30 +4,34 @@
 
 $$\frac {4}{5}$$
 $$\frac {numerator} {denominator} $$
+
 4 over 5
+
 4 is divided by 5
+
 Four-fifth
 
 ## Fraction Types
 
 3-types
 
-1. Proper Fraction
+### 1. Proper Fraction
 
-   - Numerator is smaller than Denominator.
-     $$ \frac {4}{5} $$
+- Numerator is smaller than Denominator.
+  $$ \frac {4}{5} $$
 
-2. Improper Fraction
+### 2. Improper Fraction
 
-   - Numerator is greater than Denominator.
-     $$ \frac {5}{4} $$
+- Numerator is greater than Denominator.
+  $$ \frac {5}{4} $$
 
-3. Mixed Fraction
-   - has 2 parts - a whole number and a fraction
-     $$ 3 \frac {4} {5}$$
-     (To solve numerator, 3 \* 5 + 4 = 19 and denominator stays same.)
-   - simplified form of mixed fraction is improper fraction
-     $$ \frac {19}{5} $$
+### 3. Mixed Fraction
+
+- has 2 parts - a whole number and a fraction
+  $$ 3 \frac {4} {5}$$
+  (To solve numerator, 3 \* 5 + 4 = 19 and denominator stays same.)
+- simplified form of mixed fraction is improper fraction
+  $$ \frac {19}{5} $$
 
 ## Fraction Comparison (which fraction is greater)
 
