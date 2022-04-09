@@ -10,8 +10,9 @@ Welcome to this Maths Learning Platform!
    :maxdepth: 2
    :caption: Contents:
 
-   Resources/Powers/Power Basics
-   Resources/Simplification/Simplification Basics
+   Resources/Maths/Topics/Introduction/Introduction
+   Resources/Maths/Topics/Powers/Power Basics
+   Resources/Maths/Topics/Simplification/Simplification Basics
 
 
 
