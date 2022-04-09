@@ -41,6 +41,16 @@ Negative Numbers
 -  Numbers that have - sign in front of them.
 -  :math:`-1, -2, -3, -50`
 
+Integers
+--------
+
+-  Numbers that are not in fractional or decimal form.
+
+Non-Integers
+------------
+
+-  Numbers that are in fractional or decimal form.
+
 Number Line
 -----------
 
@@ -52,16 +62,6 @@ Number Line
 -  0 is the origin and is in the center
 -  Positive numbers are on right of origin (0).
 -  Negative numbers are on left of origin (0).
-
-Integers
---------
-
--  Numbers that are not in fractional or decimal form.
-
-Non-Integers
-------------
-
--  Numbers that are in fractional or decimal form.
 
 Important Facts
 ~~~~~~~~~~~~~~~
