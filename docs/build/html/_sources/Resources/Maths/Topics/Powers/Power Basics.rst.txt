@@ -6,7 +6,7 @@ Example Question
 .. math::  2^3 
 
 Definitions
------------
+~~~~~~~~~~~
 
 Powers
 
@@ -28,24 +28,24 @@ Solution of :math:`2^3` is:
 :math:`= 2*2*2` = 8
 
 Rules
------
+~~~~~
 
 When Power is 0
-~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^
 
 -  answer is 1
 
    .. math:: 2^0 = 1
 
 When Power is 1
-~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^
 
 -  answer is number itself
 
    .. math:: 2^1 = 2
 
 When Power is negative
-~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^
 
 Step 1. First simplify negative power to positive power by dividing 1 by
 question Step 2. Then solve it as usual.
@@ -57,7 +57,7 @@ question Step 2. Then solve it as usual.
 .. math::  = \frac {1} {9} 
 
 When Base is negative
-~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^
 
 1. Even positive or negative power of negative base will always have
    positive sign in answer.
