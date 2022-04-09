@@ -43,7 +43,7 @@
 
 ## Number Line
 
-![Number Line]('./../../../Images/number_line.png)
+<img src="number_line.png" alt="Number Line">
 
 - 0 is the origin and is in the center
 - Positive numbers are on right of origin (0).

@@ -54,11 +54,6 @@ Non-Integers
 Number Line
 -----------
 
-.. figure:: './../../../Images/number_line.png
-   :alt: Number Line
-
-   Number Line
-
 -  0 is the origin and is in the center
 -  Positive numbers are on right of origin (0).
 -  Negative numbers are on left of origin (0).
