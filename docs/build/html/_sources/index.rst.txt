@@ -14,6 +14,9 @@ Welcome to this Maths Learning Platform!
    Resources/Maths/Topics/Unit System/Unit System Basics
    Resources/Maths/Topics/Powers/Power Basics
    Resources/Maths/Topics/Simplification/Simplification Basics
+   Resources/Maths/Topics/Operations/Addition and Subtraction
+   Resources/Maths/Topics/Operations/Multiplication
+   Resources/Maths/Topics/Operations/Division
    
 
 

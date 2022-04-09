@@ -56,13 +56,9 @@ Seven (7)
 example
 
 -  :math:`798`
-
 -  step 1 - :math:`8 \times 2 = 16`
-
 -  step 2 - 79 is obtained by removed 8 from 798.
-
 -  step 3 - :math:`79-16 = 63`
-
 -  step 4 - 63 is divisible by 7.
 
    Therefore 798 is divisible by 7.
