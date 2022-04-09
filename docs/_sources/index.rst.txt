@@ -17,6 +17,7 @@ Welcome to this Maths Learning Platform!
    Resources/Maths/Topics/Operations/Division
    Resources/Maths/Topics/Fractions/Fractions
    Resources/Maths/Topics/Powers/Power Basics
+   Resources/Maths/Topics/Roots/roots
    Resources/Maths/Topics/Simplification/Simplification Basics
 
    
