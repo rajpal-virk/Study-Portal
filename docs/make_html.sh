@@ -1,2 +1,2 @@
 make html
-cp ./build/html/* .
+\cp -r ./build/html/* .
