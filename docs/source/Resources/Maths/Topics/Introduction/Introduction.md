@@ -31,7 +31,7 @@
 ## Negative Numbers
 
 - Numbers that have - sign in front of them.
-- $ -1, -2, -3, -50 $
+- $-1, -2, -3, -50$
 
 ## Number Line
 
