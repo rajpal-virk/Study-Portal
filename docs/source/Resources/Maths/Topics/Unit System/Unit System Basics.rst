@@ -1,6 +1,11 @@
 Unit Systems
 ============
 
+.. figure:: units_system.png
+   :alt: Units Systems
+
+   Units Systems
+
 Standard Form
 -------------
 

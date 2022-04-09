@@ -1,6 +1,6 @@
 # Unit Systems
 
-<img src="./units_system.png" alt="Unit Systems">
+![Units Systems](units_system.png)
 
 ## Standard Form
 
