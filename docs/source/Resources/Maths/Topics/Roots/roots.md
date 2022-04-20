@@ -40,3 +40,8 @@ $$ \sqrt {a} - \sqrt b $$
 
 6. To solve roots of roots, we multiply roots.
    $$ \sqrt [4] {\sqrt [3] {123}} = \sqrt [12] {123} $$
+
+## Solving Roots
+
+step 1. Find the prime factors of the number
+step 2. Make pairs, and each pair should have same numbers and count of numbers in each pair should be equal to the root value.

@@ -1,4 +1,4 @@
-# Addition and Subtraction,
+# Addition and Subtraction
 
 - When signs are same in front of all numbers, we add numbers, and put sign of any number in front of answer.
   $$ 35 + 30 = 65 $$
